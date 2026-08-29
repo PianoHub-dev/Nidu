@@ -7,6 +7,8 @@ Current Features:
 - VFX Preview Section
 - Trim MIDI files
 
+Link: https://pianohub-dev.github.io/Nidu-BETA/
+
 To access Nidu's premium features you need a to activate your key in the "Activate" tab.
 Since the application is still in Beta, here are free Beta keys:
 
