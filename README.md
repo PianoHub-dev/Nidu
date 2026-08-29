@@ -10,10 +10,12 @@ Current Features:
 To access Nidu's premium features you need a to activate your key in the "Activate" tab.
 Since the application is still in Beta, here are free Beta keys:
 
-VHUJ-K3AA-USK4
-XTGE-VA37-BCYC
-7LQ2-M8D4-FPSC
-GVKL-KMHL-YCVZ
-HLC5-AXXZ-QCBB
+- VHUJ-K3AA-USK4
+- XTGE-VA37-BCYC
+- 7LQ2-M8D4-FPSC
+- GVKL-KMHL-YCVZ
+- HLC5-AXXZ-QCBB
+
+These keys unlock the latest features of Nidu for lifetime including future updates. Each key is limited to 1 per user.
 
 Enjoy :)
